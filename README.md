@@ -1,10 +1,8 @@
-MUHAMMED RIZWAN P. S., CODEVITA INTERNSHIP - DATA SCIENCE
-SUBMITTED ON: 31/07/2022
+A supervised Ml model to predict weight using the provided height.
+This project was made under CodeVita Live Skill Brewery Program where I was an intern.
 
-TASK: To predict weight of a person based on their height using Linear Regression(Supervised ML).
-
-Linear regression quantifies the relationship between one or more predictor variable(s) and one outcome variable. Linear regression is commonly used for predictive analysis and modeling. For example, it can be used to quantify the relative impacts of age, gender, and diet (the predictor variables) on height (the outcome variable).
-
-Linear Regression can be considered a Machine Learning algorithm that allows us to map numeric inputs to numeric outputs, fitting a line into the data points. Linear Regression as an algorithm relies on the concept of lowering the cost to maximize the performance.
-
-Note: Make sure to open the directory in the jupiter notebook page. And in this directory, create a python3 notebook.
+Task:
+1. Predict the weight of a person based on their height.
+2. This would include the use of linear regression.
+3. Choose randomly from one of the hundreds of datasets available on the internet.
+4. You can use R, Python or any other popular tool for this purpose.
