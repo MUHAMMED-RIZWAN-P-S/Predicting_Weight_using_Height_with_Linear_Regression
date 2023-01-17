@@ -1,5 +1,7 @@
-A supervised Ml model to predict weight using the provided height.
+# Predicting Weight using Height with Linear Regression
 
+
+A supervised Ml model to predict weight using the provided height.
 Task:
 1. Predict the weight of a person based on their height.
 2. This would include the use of linear regression.
